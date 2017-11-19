@@ -102,6 +102,7 @@ Plugin                            Description
                                   Easybank, ING-Diba, Livebank, Raiffeisenbank.
 `ofxstatement-postfinance`_       Swiss PostFinance (E-Finance Java text based bank/credit statements).
 `ofxstatement-mbank-sk`_          MBank.sk
+`ofxstatement-be-bnp`_            BNP Paribas Fortis (Belgium)
 `ofxstatement-be-keytrade`_       KeytradeBank (Belgium)
 `ofxstatement-be-ing`_            ING (Belgium)
 `ofxstatement-be-kbc`_            KBC (Belgium)
@@ -132,6 +133,7 @@ Plugin                            Description
 .. _ofxstatement-austrian: https://github.com/nblock/ofxstatement-austrian
 .. _ofxstatement-postfinance: https://pypi.python.org/pypi/ofxstatement-postfinance
 .. _ofxstatement-mbank-sk: https://github.com/epitheton/ofxstatement-mbank-sk
+.. _ofxstatement-be-bnp: https://github.com/bfrisque/ofxstatement-be-bnp
 .. _ofxstatement-be-keytrade: https://github.com/Scotchy49/ofxstatement-be-keytrade
 .. _ofxstatement-be-ing: https://github.com/TheoMarescaux/ofxstatement-be-ing
 .. _ofxstatement-be-kbc: https://github.com/plenaerts/ofxstatement-be-kbc

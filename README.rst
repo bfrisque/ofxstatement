@@ -171,6 +171,7 @@ Plugin                            Description
 .. _ofxstatement-austrian: https://github.com/nblock/ofxstatement-austrian
 .. _ofxstatement-postfinance: https://pypi.python.org/pypi/ofxstatement-postfinance
 .. _ofxstatement-mbank-sk: https://github.com/epitheton/ofxstatement-mbank-sk
+.. _ofxstatement-be-bnp: https://github.com/bfrisque/ofxstatement-be-bnp
 .. _ofxstatement-be-keytrade: https://github.com/Scotchy49/ofxstatement-be-keytrade
 .. _ofxstatement-be-ing: https://github.com/jbbandos/ofxstatement-be-ing
 .. _ofxstatement-be-kbc: https://github.com/plenaerts/ofxstatement-be-kbc
